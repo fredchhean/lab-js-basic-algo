@@ -50,5 +50,6 @@ else {
   console.log("la fin des haricots si tu vois ça")
 }
 
+console.log("testgitpull")
 // Lorem ipsum generator
 
